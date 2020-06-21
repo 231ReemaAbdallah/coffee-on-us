@@ -1,3 +1,80 @@
+body{
+  background-color: gray;
+}
+
+
+.arabic{
+  text-align:right;
+}
+
+.starbucks{
+  background-color: green;
+}
+.Costa{
+  background-color: red;
+}
+.Caribou{
+  background-color: blue;
+}
+
+table{
+  border-collapse: collapse;
+  text-decoration: none;
+   text-align: center;
+}
+  
+  
+  .tr{
+      background-color: white;
+  }
+  
+
+   th,td{
+      border:1px solid white;
+  }
+
+
+
+img{
+  display: inline-block;
+}
+
+.eenglish{
+  margin: auto;
+}
+
+.coffee{
+  color: blueviolet;
+}
+
+
+.padding { 
+  padding: auto; 
+  padding-bottom: 100px; 
+  padding-right: 100px;
+  padding-left: 500px;
+  padding-top: 100px;
+   list-style-type: none; }
+
+   .img1{
+display: inline-block;
+   }
+   .img2{
+     display: inline-block;
+   }
+   .img3{
+     display: inline-block;
+   }
+
+   
+
+
+
+
+
+
+
+
 /* td {
   background-color: orange;
 } */
@@ -14,23 +91,19 @@
   background-color: lightcoral;
 } */
 
-/* img { */
-/* display: block; */
-/* inline-block */
-/* inline */
-/* } */
+
 
 /* .font {
   font-weight: 800;
   font-size: 18px;
 } */
 
-/* .padding { 
+.padding { 
  padding: auto; 
  padding-bottom: 100px; 
  padding-right: 0;
   list-style-type: none; 
- }  */
+ } 
 
 /* 
 .font {
